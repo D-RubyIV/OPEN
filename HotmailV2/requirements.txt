@@ -1,0 +1,6 @@
+requests
+selenium
+fake_useragent
+colorama
+pyperclip
+random_username

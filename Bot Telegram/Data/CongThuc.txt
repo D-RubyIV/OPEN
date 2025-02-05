@@ -1,0 +1,10 @@
+3n2l1n_n
+3l2n1l_l
+2n2l1n_n
+2l2n1l_l
+1n2l1n_n
+1l2n1l_l
+1n1l_n
+1l1n_l
+1l_l
+1n_n
